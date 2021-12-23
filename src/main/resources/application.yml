@@ -1,0 +1,7 @@
+spring:
+  data:
+    mongodb:
+      username: root
+      password: abc123
+      database: admin
+
